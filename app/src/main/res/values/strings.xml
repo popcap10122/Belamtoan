@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Belamtoan</string>
+    <string name="title">Giup be lam toan cong</string>
+    <string name="btn_baimoi">Bai moi</string>
+    <string name="txt_sothunhat">So thu nhat</string>
+    <string name="txt_sothuhai">So thu hai</string>
+    <string name="txt_dapan">Dap so cua be</string>
+    <string name="btn_check">Kiem tra</string>
+</resources>
